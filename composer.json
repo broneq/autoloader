@@ -1,0 +1,21 @@
+{
+  "name": "broneq/autoloader",
+  "type": "library",
+  "description": "MiniFw - Mini framework inspired by Phalcon framework",
+  "keywords": [
+    "autoloader",
+    "php",
+    "php5"
+  ],
+  "homepage": "https://github.com/broneq/autoloader",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Przemysław Broniszewski",
+      "email": "przemek@broniszewski.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.5"
+  }
+}
